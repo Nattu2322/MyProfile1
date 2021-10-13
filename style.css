@@ -1,0 +1,29 @@
+body{
+  text-align:center;
+  background:linear-gradient( #28ced1 25%, #2896d1 25%, #2852d1 50% );
+  background-repeat:no-repeat;
+}
+
+img{
+  border-radius:50%;
+  width:200px;
+}
+#bio{
+  padding:20px;
+  font-size:18px;
+  text-align:center;
+}
+h1{
+  text-shadow:2px 2px #F8BBDO;
+  font-size:20px;
+}
+.menu{
+    
+    list-style: none;
+    font-family:fantasy;
+    float:right;
+    top:10px;
+    right:30px;
+    cursor:pointer;
+    color:black;
+}
